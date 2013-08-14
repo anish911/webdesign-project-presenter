@@ -1,7 +1,3 @@
-webdesign-project-presenter
-======================
-
-
 <h1>Easy Web-Site Design Presenter</h1>
 <p>
 This is a small side project ment to ease the process of creating a web-site design presentation for the client.
@@ -13,6 +9,7 @@ I design websites. Usually when I present the design to a client, I upload a .ht
 <p>
 After a while the process of editing html-s and building navigation for each project becames a bit annoying, so here is a tool that will make the presentation process much faster.
 </p>
+
 <h3>Usage</h3>
 
 Just Drag and Drop images to images->folder. Sections will be built automatically by reading the images(Naming, Height, EXIF -> TITLE) from the images folder! Each image will generate a separate Section (ex. Home-page-design, Category-page-design, Single-page-design), a navigation is generated with links to each section for easy access to all the separate page designs.
