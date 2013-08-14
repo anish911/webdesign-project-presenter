@@ -10,14 +10,12 @@ I design websites. Usually when I present the design to a client, I upload a .ht
 After a while the process of editing html-s and building navigation for each project becames a bit annoying, so here is a tool that will make the presentation process much faster.
 </p>
 
+
+
+<h2>Upload the presenter to a folder on your server & Drag and Drop images to images folder, that’s It! Really thats’ it :-)</h2>
+
 <h3>Usage</h3>
 <p>
-Upload the presenter to a folder on your server and follow the instructions.
-
-Just Drag and Drop images to images folder, that’s It! Really thats’ it :-)
-
-<strong>How it works</strong>
-
 Drop images to images->folder. Sections will be built automatically by reading the images(Naming, Height, EXIF -> TITLE) from the images folder! Each image will generate a separate Section (ex. Home-page-design, Category-page-design, Single-page-design), a navigation is generated with links to each section for easy access to all the separate page designs.
 
 Navigation item title will be generated from image EXIF -> Title, Navigation item order based on naming order (ABC / 123)
