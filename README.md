@@ -4,7 +4,7 @@ This is a small side project ment to ease the process of creating a web-site des
 </p>
 <h3>The Story</h3>
 <p>
-I design websites. Usually when I present the design to a client, I upload a .html to the server and send the client a link so he can see the design straight in the browser. This way of presenting a web site design is far better then sending a collection of pics( or worst a .pdf), also helps the client to accept the design faster by creating a nice experience, feels that the site is almost Live.
+I design websites. Usually when I present the design to a client, I upload a .html to the server and send the client a link so he can see the design straight in the browser. This way of presenting a web site design is far better then sending a collection of pics (or worst a .pdf), also helps the client to accept the design faster by creating a nice experience, feels that the site is almost Live.
 </p>
 <p>
 After a while the process of editing html-s and building navigation for each project becames a bit annoying, so here is a tool that will make the presentation process much faster.
