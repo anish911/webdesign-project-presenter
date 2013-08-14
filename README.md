@@ -13,20 +13,21 @@ After a while the process of editing html-s and building navigation for each pro
 <h3>Usage</h3>
 <p>
 Upload the presenter to a folder on your server and follow the instructions.
-<br/><br/>
+
 Just Drag and Drop images to images->folder. Sections will be built automatically by reading the images(Naming, Height, EXIF -> TITLE) from the images folder! Each image will generate a separate Section (ex. Home-page-design, Category-page-design, Single-page-design), a navigation is generated with links to each section for easy access to all the separate page designs.
-<br/><br/>
+
 Navigation item title will be generated from image EXIF -> Title, Navigation item order based on naming order (ABC / 123)
-<br/><br/>
+<br/>
 ------------------------------
+<br/>
 Images (navigation) will be listed by naming order:
 <br/>
-1-image.jpg
-2-image.jpg
-3-image.jpg
-<br/><br/>
+1-image.jpg<br/>
+2-image.jpg<br/>
+3-image.jpg<br/>
+<br/>
 ------------------------------
-
+<br/>
 Navigation title is image EXIF title. Right click image and edit EXIF title!
 </p>
 
