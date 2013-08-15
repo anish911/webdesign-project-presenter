@@ -33,6 +33,6 @@ Images (navigation) will be listed by naming order:
 Navigation title is image EXIF title. Right click image and edit EXIF title!
 </p>
 <p>
-You can see the project live <a href="http://presenter.webventures.ro/" targe="_blank" title="Easy Web-Site Design Presenter">HERE</a>
+You can see the project live <a href="http://presenter.siteparticles.com/" target="_blank" title="Easy Web-Site Design Presenter">HERE</a>
 </p>
 
