@@ -1,6 +1,6 @@
 <h1>Easy Web-Site Design Presenter</h1>
 <p>
-This is a small side project ment to ease the process of creating a web-site design presentation for the client.
+This is a small side project meant to ease the process of creating a web-site design presentation for the client.
 </p>
 <h3>The Story</h3>
 <p>
