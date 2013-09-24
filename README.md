@@ -16,7 +16,7 @@ After a while the process of editing html-s and building navigation for each pro
 
 <h3>Usage</h3>
 <p>
-Drop images to images->folder. Sections will be built automatically by reading the images(Naming, Height, EXIF -> TITLE) from the images folder! Each image will generate a separate Section (ex. Home-page-design, Category-page-design, Single-page-design), a navigation is generated with links to each section for easy access to all the separate page designs.
+Drop images to images->folder. Sections will be built automatically by reading the images(Naming, Height, Image Description -> TITLE) from the images folder! Each image will generate a separate Section (ex. Home-page-design, Category-page-design, Single-page-design), a navigation is generated with links to each section for easy access to all the separate page designs.
 
 Navigation item title will be generated from image Properties -> Details -> Title:, Navigation item order based on naming order (ABC / 123)
 <br/>
@@ -30,7 +30,7 @@ Images (navigation) will be listed by naming order:
 <br/>
 ------------------------------
 <br/>
-Navigation title is image EXIF title. Right click image and edit EXIF title!
+Navigation title is image desciption title. Right click image and edit description title!
 </p>
 <p>
 You can see the project live <a href="http://presenter.siteparticles.com/" target="_blank" title="Easy Web-Site Design Presenter">HERE</a>
