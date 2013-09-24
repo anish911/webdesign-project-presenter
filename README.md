@@ -29,8 +29,6 @@ Images (navigation) will be listed by naming order:
 3-image.jpg<br/>
 <br/>
 ------------------------------
-<br/>
-Navigation title is image desciption title. Right click image and edit description title!
 </p>
 <p>
 You can see the project live <a href="http://presenter.siteparticles.com/" target="_blank" title="Easy Web-Site Design Presenter">HERE</a>
