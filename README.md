@@ -34,3 +34,7 @@ Images (navigation) will be listed by naming order:
 You can see the project live <a href="http://presenter.siteparticles.com/" target="_blank" title="Easy Web-Site Design Presenter">HERE</a>
 </p>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/recad/webdesign-project-presenter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
